@@ -13,4 +13,4 @@ jobs:
     steps:
       - uses: azwarbahar/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.69573376-7fe5-4f52-a6f3-5d826b4498ab }}
+          WAKATIME_API_KEY: ${{ 69573376-7fe5-4f52-a6f3-5d826b4498ab }}
