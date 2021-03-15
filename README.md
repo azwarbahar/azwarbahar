@@ -20,8 +20,8 @@ I Have an Interest in the world of Programming and system development. Competent
 - 📫 How to reach me: azwarbahar07@gmail.com;
 
 </br>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 </br>
 📈 **My GitHub Stats:**
