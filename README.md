@@ -18,10 +18,7 @@ I Have an Interest in the world of Programming and system development. Competent
 - 👨🏻‍💻 I’m currently working on something cool;
 - :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
 - 📫 How to reach me: azwarbahar07@gmail.com;
-
-</br>
-START_SECTION:waka
-END_SECTION:waka
+- :indonesia: I'm from Makassar,Indonesia
 
 </br>
 📈 **My GitHub Stats:**
@@ -30,6 +27,9 @@ END_SECTION:waka
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarbahar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+### My WakaTime Coding Activity ###
+<img src="https://github.com/azwarbahar/azwarbahar/blob/main/images/stat.svg" alt="Alternative Text"/>
 
 <!--
 **azwarbahar/azwarbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
