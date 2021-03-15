@@ -6,6 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/azwarbahar)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/azwar.exe/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/azwarbahar)
+[![Telegram Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282394865570)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azwarbahar.azwarbahar)
 
@@ -17,6 +18,10 @@ I Have an Interest in the world of Programming and system development. Competent
 - 👨🏻‍💻 I’m currently working on something cool;
 - :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
 - 📫 How to reach me: azwarbahar07@gmail.com;
+
+</br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </br>
 📈 **My GitHub Stats:**
