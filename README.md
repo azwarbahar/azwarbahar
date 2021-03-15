@@ -11,11 +11,20 @@
 
 I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 **About me:**
-- 👨🏻‍💻 I’m Android Developer Enthusiast;
-- :school: Universitas Islam Negeri Alauddin Makassar
+- 👨🏻‍💻 I’m currently working on something cool;
+- :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
+- 📫 How to reach me: azwarbahar07@gmail.com;
+
+</br>
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarbahar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!--
 **azwarbahar/azwarbahar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
