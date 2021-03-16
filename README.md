@@ -13,7 +13,7 @@
 
 I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
 
-<img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="208" height="158" />
+<img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="308" height="258" />
 
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
