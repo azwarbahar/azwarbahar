@@ -13,7 +13,7 @@
 
 I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
 
-<img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="208" height="158" />
 
 **About me:**
 - 👨🏻‍💻 I’m currently working on something cool;
@@ -25,8 +25,8 @@ I Have an Interest in the world of Programming and system development. Competent
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarbahar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azwarbahar&count_private=true&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="Azwar's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azwarbahar&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
 ### My WakaTime Coding Activity ###
