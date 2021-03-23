@@ -9,6 +9,9 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azwar.016/)
 [![Telegram Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282394865570)
 
+
+[![Sociabuzz Badge](https://img.shields.io/badge/-Sociabuzz-25d366?style=flat-square&logo=Sociabuzz&logoColor=white)](https://wa.me/6282394865570)
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azwarbahar.azwarbahar)
 
 I Have an Interest in the world of Programming and system development. Competent in this matter is my dream. Lately I have spent a lot of my time studying and deepening it. 
