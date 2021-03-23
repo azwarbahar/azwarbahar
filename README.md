@@ -11,10 +11,10 @@
 
 
 
-#If you want to support my work:# 
-[![PayPal](https://img.shields.io/badge/PayPal-Donate%20my%20work-yellow?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
+# If you want to support my work: # 
+[![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
 
-[![Sociabuzz](https://img.shields.io/badge/-Donate-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
+[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azwarbahar.azwarbahar)
 
