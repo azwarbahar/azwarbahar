@@ -10,7 +10,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282394865570)
 
 
-[![Donate](https://img.shields.io/badge/-Donate-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
+
+#If you want to support my work:# 
+[![PayPal](https://img.shields.io/badge/PayPal-Donate%20my%20work-yellow?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
+
+[![Sociabuzz](https://img.shields.io/badge/-Donate-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=azwarbahar.azwarbahar)
 
