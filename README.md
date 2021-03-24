@@ -9,10 +9,14 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azwar.016/)
 [![Telegram Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282394865570)
 
+---
 
+### Donate via :
 
-#### If you want to support my work: [![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar) [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
+Sociabuzz [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
+PayPal [![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
 
+---
 
 
 
