@@ -13,8 +13,10 @@
 
 ### Donate via :
 
-Sociabuzz [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
-PayPal [![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
+[![PayPal](https://img.shields.io/badge/-PayPal-0088cc?logo=PayPal&logoColor=yellow&labelColor=black)](https://www.paypal.com/paypalme/azwarbahar)
+
+
+[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-e4405f?style=flat-square&logo=Sociabuzz&logoColor=white)](https://sociabuzz.com/azwarbahar/donate)
 
 ---
 
