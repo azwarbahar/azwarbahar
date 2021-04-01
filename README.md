@@ -34,7 +34,7 @@ I Have an Interest in the world of Programming and system development. Competent
 - 📫 How to reach me: azwarbahar07@gmail.com;
 - :triangular_flag_on_post: I'm from Makassar,Indonesia
 
-- Downlaod My [CV](http://drive.google.com/u/0/uc?id=1DF87wFreBWv_Rln2ROylUyUyb4K7ZCFL&export=download)
+- Downlaod My [CV](https://drive.google.com/file/d/1DF87wFreBWv_Rln2ROylUyUyb4K7ZCFL/view?usp=sharing)
 
 
 </br>
