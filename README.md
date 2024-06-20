@@ -1,14 +1,6 @@
 
 ### Hi there, I'm Muhammad Azwar Bahar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/-azwar-bahar)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MuhammadAzwarB1)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/azwar.exe/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/azwarbahar)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/azwar.016/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-25d366?style=flat-square&logo=Whatsapp&logoColor=white)](https://wa.me/6282358719404)
-
 ---
 
 ### Donate via :
@@ -28,13 +20,6 @@ I Have an Interest in the world of Programming and system development. Competent
 
 <img align="right" alt="GIF" src="https://github.com/azwarbahar/azwarbahar/blob/main/coding.gif?raw=true" width="308" height="258" />
 
-**About me:**
-- 👨🏻‍💻 I’m currently working on something cool;
-- :school: My last education at [Universitas Islam Negeri Alauddin Makassar](https://uin-alauddin.ac.id)
-- 📫 How to reach me: azwarbahar07@gmail.com;
-- :triangular_flag_on_post: I'm from Makassar,Indonesia
-
-- Downlaod My [ CV ](https://drive.google.com/file/d/1L9ojqBYiL_aa3lRhbKnwqlU7r-bF3Jgq/view?usp=sharing)
 
 
 </br>
